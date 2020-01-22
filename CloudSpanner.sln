@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudSpanner", "CloudSpanner\CloudSpanner.csproj", "{9AFE2818-7735-49AE-ABB7-D006DD52F424}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandLineUtil", "..\..\..\dotnet-docs-samples\dotnet-docs-samples\commandlineutil\Lib\CommandLineUtil.csproj", "{5CDDB2D6-B40B-4090-A8EB-93C2882EFD43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AFE2818-7735-49AE-ABB7-D006DD52F424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFE2818-7735-49AE-ABB7-D006DD52F424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFE2818-7735-49AE-ABB7-D006DD52F424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFE2818-7735-49AE-ABB7-D006DD52F424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDDB2D6-B40B-4090-A8EB-93C2882EFD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDDB2D6-B40B-4090-A8EB-93C2882EFD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDDB2D6-B40B-4090-A8EB-93C2882EFD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDDB2D6-B40B-4090-A8EB-93C2882EFD43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2BED490-0033-43AD-BE73-809117E6A938}
+	EndGlobalSection
+EndGlobal

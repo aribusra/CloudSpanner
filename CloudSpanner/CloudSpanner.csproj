@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Spanner.v1" Version="1.43.0.1834" />
+    <PackageReference Include="Google.Cloud.Spanner.Data" Version="2.1.0" />
+    <PackageReference Include="Google.Cloud.Spanner.V1" Version="2.1.0" />
+  </ItemGroup>
+
+
+
+</Project>
